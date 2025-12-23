@@ -1,4 +1,4 @@
-##👋 Hi, I'm Chastidy Joanem
+## 👋 Hi, I'm Chastidy Joanem
 
 I'm a graduate student in Software Engineering with a passion for building full stack applications that are user-focused.
 
