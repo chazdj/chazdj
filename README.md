@@ -2,7 +2,7 @@
 
 I'm a graduate student in Software Engineering with a passion for building full stack applications that are user-focused.
 
-## 🔭 I’m currently working on a collaborative team productivity app
+## 🔭 I’m currently working on a [collaborative task management web application](https://github.com/chazdj/Task-Team)
 
 ## 🛠️ Tools I Use
 **Languages:** Python, Java, C/C++, JavaScript, HTML/CSS  
